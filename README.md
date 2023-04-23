@@ -2,7 +2,7 @@
 
 [Demo Link](https://face-detection-js-production.up.railway.app) << click here
 
-### Brief Instructions
+### :woman_teacher: Brief Instructions
 
 1. Click on the "Demo Link" above
 
