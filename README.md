@@ -1,6 +1,15 @@
 ## JS AI App: Face & Emotions Detector
 
-[Demo Link](https://svmed2050.github.io/freelance-project-site) << click here
+[Demo Link](https://face-detection-js-production.up.railway.app) << click here
+
+### Brief Instructions
+
+1. Click on the "Demo Link" above
+
+2. Allow access to your Webcam
+
+3. Make a face expression or change <br>
+   your emotion to see how this app works
 
 ### :gem: Used Technologies
 
